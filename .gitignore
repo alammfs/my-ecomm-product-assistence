@@ -5,7 +5,31 @@ build/
 dist/
 wheels/
 *.egg-info
+.env
 
 # Virtual environments
 .venv
 ecomenv
+# Virtual environments
+.venv
+# Virtual environment
+env/
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+archive/
+
+.vscode/
