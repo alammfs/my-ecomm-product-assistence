@@ -1,5 +1,5 @@
 def main():
-    print("Hello from my-ecomm-product-assistence!")
+    print("Hello from ecomm-prod-assistant!")
 
 
 if __name__ == "__main__":
